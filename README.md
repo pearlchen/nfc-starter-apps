@@ -3,7 +3,7 @@ nfc-starter-apps
 
 This repo contains 3 starter apps to kick off your NFC development for Android.
 
-These apps were originally created for [Professional Android Sensor Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118183487.html) written by Greg Milette & Adam Stroud and published by Wrox Press, then forked from the book's _Great Android Sensing Toolkit_ library found also on github here: [GAST-lib](https://github.com/pchen/gast-lib). I am the contributing author of _Chapter 11: Near Field Communication (NFC)_ and a contributing co-author for _Chapter 10: Android Open Accessory_.
+These apps were originally created for [Professional Android Sensor Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118183487.html) written by Greg Milette & Adam Stroud and published by Wrox Press, then forked from the book's [Great Android Sensing Toolkit (GAST)](https://github.com/pchen/gast-lib) library. I am the contributing author of _Chapter 11: Near Field Communication (NFC)_ and a contributing co-author for _Chapter 10: Android Open Accessory_.
 
 
 ## How to get started with development
@@ -13,10 +13,14 @@ These apps were originally created for [Professional Android Sensor Programming]
 ## To learn more about NFC
 
 + Read the book: [Professional Android Sensor Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118183487.html)
-+ Check out a non-technical and [short presentation on NFC](http://prezi.com/-nn2gofxtjmf/nfc-beyond-mobile-payments/) that I created for FITC: Toronto 2012
++ Flip through a non-technical and [short presentation on NFC](http://prezi.com/-nn2gofxtjmf/nfc-beyond-mobile-payments/) that I created for FITC: Toronto 2012
++ Keep an eye out for another [Peanut Butter & Code Jam](http://pbcj.eventbrite.com) focussed on NFC or Android.
 
 ## Contact
-+ [Email](mailto:pearl[at]karma-laboratory.com)
+
++ [Google+](http://klab.ca/+)
++ [Twitter](http://twitter.com/androidsNsheep)
++ Email me via pearl[at]karma-laboratory.com
 
 ## License
 
