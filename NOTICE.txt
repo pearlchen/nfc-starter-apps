@@ -1,0 +1,16 @@
+NFC Starter Apps for Android
+Copyright 2012 Pearl Chen
+
+Portions of this code derived from Professional Android Sensor Programming, ISBN: 978-1-1181-8348-9, copyright John Wiley & Sons, Inc.: 2012, by Greg Millette and Adam Stroud, published under the Wrox imprint are used by permission of John Wiley & Sons, Inc. All rights reserved. This book and the Wrox code are available for purchase or download at
+  http://www.wrox.com and 
+  http://github.com/gast-lib
+
+This product contains software developed by Google and shared in the Android
+developer site.
+  http://developer.android.com
+
+Portions of the NFC examples were derived from the StickyNotes example from
+the android developer reference.
+  http://nfc.android.com/StickyNotes.zip
+
+
