@@ -1,4 +1,23 @@
 nfc-starter-apps
 ================
 
-Three starter apps to kick off your NFC development for Android. These apps were originally created for Professional Android Sensor Development published by Wiley Wrox
+This repo contains 3 starter apps to kick off your NFC development for Android.
+
+These apps were originally created for [Professional Android Sensor Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118183487.html) written by Greg Milette & Adam Stroud and published by Wrox Press, then forked from the book's _Great Android Sensing Toolkit_ library found also on github here: [GAST-lib](https://github.com/pchen/gast-lib). I am the contributing author of _Chapter 11: Near Field Communication (NFC)_ and a contributing co-author for _Chapter 10: Android Open Accessory_.
+
+
+## How to get started with development
+
+* In most cases, use the **File > Import > Existing Projects into Workspace** option in Eclipse to import individual app projects into a new or existing workspace.
+
+## To learn more about NFC
+
++ Read the book: [Professional Android Sensor Programming](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118183487.html)
++ Check out a non-technical and [short presentation on NFC](http://prezi.com/-nn2gofxtjmf/nfc-beyond-mobile-payments/) that I created for FITC: Toronto 2012
+
+## Contact
++ [Email](mailto:pearl[at]karma-laboratory.com)
+
+## License
+
+All the code is licensed under the Apache 2.0 license. See [LICENSE.txt](https://github.com/pchen/nfc-starter-apps/blob/master/LICENSE.txt) for license details.
