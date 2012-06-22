@@ -8,7 +8,7 @@ These apps were originally created for [Professional Android Sensor Programming]
 
 ## How to get started with development
 
-* In most cases, use the **File > Import > Existing Projects into Workspace** option in Eclipse to import individual app projects into a new or existing workspace.
+* In most cases, use the **File > Import > Archive File** option in Eclipse to import individual app projects archives (zip files) into a new or existing workspace.
 
 ## To learn more about NFC
 
