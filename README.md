@@ -8,11 +8,11 @@ These apps were originally created for [Professional Android Sensor Programming]
 
 ## How to get started with development
 
-* In most cases, use the **File > Import > Archive File** option in Eclipse to import individual app projects archives (zip files) into a new or existing workspace.
+* Unzip each individual project archive. In Eclipse, use the **File > Import > Existing Projects into Workspace ** option in Eclipse to import individual app projects into current Eclipse workspace.
 
-SimpleNFCInventory.zip: Shows off basic reading and writing of NFC tags using NDEF formatting.
+SimpleNFCInventory.zip: Shows off basic reading and writing of NFC tags using NDEF formatting. Works on Gingerbread devices and up.
 
-P2PNFCInventory.zip: Builds off of Simple NFC Inventory by adding peer-to-peer support. Use this for pre-ICS devices, otherwise use BeamNFCInventory.zip.
+P2PNFCInventory.zip: Builds off of Simple NFC Inventory by adding peer-to-peer support. Use this for pre-ICS devices (e.g. Gingerbread), otherwise use BeamNFCInventory.zip.
 
 BeamNFCInventory.zip: Builds off of Simple NFC Inventory by adding peer-to-peer support using the new ICS (Android 4.0) Beam APIs.
 
